@@ -1,12 +1,8 @@
-Bien sûr ! Voici une version encore plus détaillée et stylisée pour ton `README.md`. Ce modèle utilise des éléments de mise en forme Markdown pour créer une présentation professionnelle et accrocheuse.
-
----
-
 # 🌟 **Bienvenue sur mon Profil !** 🌟
 
 ## 👋 **À propos de moi**
 
-Salut ! Je suis **[Ton Nom]**, un [ton métier ou ta spécialité] passionné avec [nombre d'années] d'expérience dans le domaine de [domaine ou technologie]. Mon but est de créer des solutions innovantes et de contribuer à des projets qui ont un réel impact.
+Salut ! Je suis **Dylan**, un développeur passionné avec 2 années d'expérience dans le domaine du développement web. Mon but est de créer des solutions innovantes et de contribuer à des projets qui ont un réel impact.
 
 ### 🎯 **Mes Objectifs**
 
@@ -18,23 +14,21 @@ Salut ! Je suis **[Ton Nom]**, un [ton métier ou ta spécialité] passionné av
 
 ### 💻 **Développement Web**
 - **Langages :** HTML, CSS, JavaScript
-- **Frameworks :** React, Vue.js, Angular
+- **Frameworks :** EN COURS **
 
 ### 🧑‍💻 **Langages de Programmation**
-- **Python, Java, C++**
-- **SQL, NoSQL**
+- **Java, SCSS**
+- **SQL? NoSQL**
 
 ### ⚙️ **Outils et Technologies**
-- **Gestion de version :** Git, GitHub, GitLab
-- **Containers :** Docker, Kubernetes
-- **Cloud :** AWS, Azure, Google Cloud
+- **Gestion de version :** Git, GitHub
+- **Containers :** Docker
+- **Cloud :** AWS, Google Cloud
 
 ### 🗃️ **Base de Données**
-- **Relationnelles :** MySQL, PostgreSQL
+- **Relationnelles :** MySQL
 - **NoSQL :** MongoDB, Redis
 
-### 📈 **Méthodologies**
-- **Agile, Scrum, DevOps**
 
 ## 🚀 **Projets Récents**
 
